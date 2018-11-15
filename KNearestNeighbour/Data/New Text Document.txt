@@ -1,0 +1,18 @@
+Hamiltonian Distance
+
+K = 1   Accuracy = 59%  (2 min 7 seconds)
+k = 3   Accuracy = 54%
+k = 5   Accuracy = 49%
+
+
+Euclidean Distance
+
+K = 1   Accuracy = 71%   (2 min 44 seconds)
+k = 3   Accuracy = 72%
+k = 5   Accuracy =  71%
+
+Cosine Similarities
+
+K = 1   Accuracy = 75    (4 min 55 seconds)
+k = 3   Accuracy = 77
+k = 5   Accuracy = 80%
